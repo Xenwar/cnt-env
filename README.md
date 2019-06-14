@@ -1,2 +1,2 @@
-# containers-
-containers related tech.
+VM <- docker machine
+CN <- docker
